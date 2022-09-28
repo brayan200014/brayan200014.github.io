@@ -13,11 +13,12 @@
         Blue: hsl(207, 90%, 72%)
         Pink: hsl(356, 66%, 75%)
         Teal: hsl(174, 63%, 62%)
+        Fruit Salad: hsl(122,39%,49%)
   */
 
-  --first-hue: 250;
-  --sat: 66%;
-  --lig: 75%;
+  --first-hue:  122;
+  --sat: 39%;
+  --lig: 49%;
   --second-hue: 219; 
 
   --first-color: hsl(var(--first-hue), var(--sat), var(--lig)); 
